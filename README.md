@@ -36,7 +36,7 @@ This Weather App is a simple web application that provides users with current we
 
 # API Key
 
-To use the WeatherAPI, you need to sign up for an API key ![here](https://www.weatherapi.com). Once you have obtained your API key, replace YOUR_API_KEY in the Api.jsx file with your actual API key.
+To use the WeatherAPI, you need to sign up for an API key: https://www.weatherapi.com. Once you have obtained your API key, replace YOUR_API_KEY in the Api.jsx file with your actual API key.
 
 # Screenshots
 
